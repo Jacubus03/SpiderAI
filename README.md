@@ -15,10 +15,8 @@ Procedural animation is driven by per-leg movement cycles. Each leg dynamically 
 - Animation is made using **Control Rig**, **Locomotor** and **Full Body IK**.
 
 ## Gameplay:
-<img src="images/gameplay.gif" width="800"/>
-<img src="images/screen1.png" width="800"/>
-<img src="images/screen2.png" width="800"/>
-<img src="images/screen3.png" width="800"/>
+<img src="images/spider1.gif" width="800"/>
+<img src="images/spider2.gif" width="800"/>
 
 ## What I’m Learning:
 1. Building AI systems using Behavior Trees and Blackboard logic in Unreal Engine 5
