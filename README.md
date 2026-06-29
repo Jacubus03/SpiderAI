@@ -9,6 +9,7 @@ Spider has three main states:
 Procedural animation is driven by per-leg movement cycles. Each leg dynamically adjusts its position using ground detection and is placed on surrounding terrain while the spider moves, resulting in fully procedural locomotion without baked animations.
 
 ## Architecture
+- **Unreal Engine 5**
 - Scripts are made using **Blueprints**,
 - AI is made using **Behaviour Tree**,
 - Animation is made using **Control Rig**, **Locomotor** and **Full Body IK**.
